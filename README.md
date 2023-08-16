@@ -1,3 +1,6 @@
+# DEPREDCATED
+The TestCafe team no longer maintains the `DevExpress/error-stack-parser` repository.
+
 error-stack-parser.js - Extract meaning from JS Errors
 ===============
 [![Build Status](https://img.shields.io/travis/stacktracejs/error-stack-parser/master.svg?style=flat-square)](https://travis-ci.org/stacktracejs/error-stack-parser)
